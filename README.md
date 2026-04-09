@@ -7,7 +7,7 @@ Welcome to my personal portfolio website!
 ---
 
 ## 👨‍💻 About Me
-Hi, I'm Subrat Malik (Prince Kumar) from India 🇮🇳  
+Hi, I'm Subrat Malik from India 🇮🇳  
 Aspiring developer & entrepreneur 🚀  
 
 ---
