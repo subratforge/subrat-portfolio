@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/style.css">
+  <title>Subrat Malik | Portfolio</title>
+</head>
+
+<body>
+
+  <!-- HEADER -->
+  <header>
+    
+    <div class="profile-pic">
+  <img src="images/profile.png" alt="Subrat Malik">
+</div>
+
+    <!-- 3 DOT MENU -->
+    <div class="menu-container">
+      <div class="menu-icon" onclick="toggleMenu()">⋮</div>
+
+      <div class="dropdown" id="dropdownMenu">
+        <a href="index.html">Home</a>
+        <a href="#about">About</a>
+        <a href="#skills">Skills</a>
+        <a href="#contact">Contact</a>
+      </div>
+    </div>
+
+    <!-- HERO BOX -->
+   <div class="hero-box">
+  <div class="hero-top">
+    <h2 class="hello-text">Hello, I'm</h2>
+    <h1 class="hero-name">Subrat Malik</h1>
+  </div>
+
+  <p class="tagline">
+    Aspiring Developer | Future Entrepreneur | Dream Big 🚀
+  </p>
+</div>
+
+    <!-- NAV -->
+    <nav>
+      <a href="projects.html">Projects</a>
+      <a href="certificates.html">Certificates</a>
+      <a href="https://drive.google.com/file/d/1b2LXqmeu-yEGT12jpAaNpKCQSc4IfvIY/view?usp=drivesdk">Resume</a>
+    </nav>
+
+  </header>
+
+  <hr>
+
+  <!-- ABOUT SECTION -->
+  <section id="about">
+    <h2>About Me :</h2>
+
+    <p>Hello! My name is <strong>Subrat Malik.</strong> I am currently a student who is deeply focused on building a strong future through learning and self-improvement.</p>
+
+    <p>I am passionate about technology, coding, and entrepreneurship. My goal is not just to get a job, but to build something of my own.</p>
+
+    <p>I believe in discipline, consistency, and hard work. Every day, I try to improve myself — whether it's studying, learning new skills, or working on my mindset.</p>
+
+    <p>I am preparing for competitive exams like JEE while also exploring the world of programming and startups.</p>
+
+    <p>My dream is to become financially independent and support my family. I want to create something impactful that can help people and also give me freedom in life.</p>
+
+    <p>Apart from studies, I am also working on improving my communication skills, confidence, and physical fitness.</p>
+  </section>
+
+  <hr>
+
+  <!-- SKILLS SECTION -->
+  <section id="skills">
+    <h2 class="skills-font">My Skills</h2>
+
+    <h3>Technical Skills :</h3>
+    <div class="skills-box">
+      <span class="skill">HTML</span>
+      <span class="skill">CSS</span>
+      <span class="skill">JavaScript</span>
+      <span class="skill">Python</span>
+      <span class="skill">Canva</span>
+      
+    </div>
+
+    <h3>Other Skills :</h3>
+    <div class="skills-box">
+      <span class="skill">Problem Solving</span>
+      <span class="skill">Time Management</span>
+      <span class="skill">Discipline</span>
+      <span class="skill">quick-learner</span>
+    </div>
+  </section>
+
+  <hr>
+
+  <!-- CONTACT SECTION -->
+  <section id="contact">
+  <h1 class="contact-title">Get In Touch</h1>
+
+  <div class="contact-container">
+
+    <!-- RIGHT SIDE INFO -->
+    <div class="contact-details">
+
+      <p><strong>Office address:</strong><br>
+      Gurugram, Haryana, India</p>
+
+      <p><strong>Email:</strong><br>
+      subratmalik816@gmail.com</p>
+
+      <p class="follow-text">Follow me on social media</p>
+
+      <div class="social-links">
+        <a href="https://github.com/subratforge" target="_blank">
+          <img src="images/github.png">
+        </a>
+
+        <a href="https://www.instagram.com/prince_of_innovation/" target="_blank">
+          <img src="images/instagram.png">
+        </a>
+
+        <a href="https://www.linkedin.com/in/subratforge" target="_blank">
+          <img src="images/linkedin.png">
+        </a>
+
+        <a href="https://twitter.com/subratforge" target="_blank">
+          <img src="images/x.png">
+        </a>
+      </div>
+
+    </div>
+
+  </div>
+</section>
+
+  <!-- JS -->
+  <script>
+    function toggleMenu(){
+      var menu = document.getElementById("dropdownMenu");
+      if(menu.style.display === "block"){
+        menu.style.display = "none";
+      } else {
+        menu.style.display = "block";
+      }
+    }
+  </script>
+
+</body>
+</html>
