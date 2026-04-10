@@ -1,32 +1,32 @@
-# 🌐 Subrat Portfolio
+# Subrat Portfolio
 
 Welcome to my personal portfolio website!
 
-🔗 Live Site: https://subratforge.github.io/subrat-portfolio/
+Live Site: https://subratforge.github.io/subrat-portfolio/
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 Hi, I'm Subrat Malik from India 🇮🇳  
 Aspiring developer & entrepreneur 🚀  
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 - HTML
 - CSS
 - Basic JavaScript
 
 ---
 
-## 🚀 Projects
+## Projects
 - SmartVision-AI (Object Detection)
 - Prince Hacker Site (Flask App)
 - Parkvia (Smart Parking Idea)
 
 ---
 
-## 📜 Features
+## Features
 - Portfolio Website
 - Certificates Section
 - Projects Showcase
@@ -34,9 +34,9 @@ Aspiring developer & entrepreneur 🚀
 
 ---
 
-## ⭐ Goal
+## Goal
 To become a successful developer and build impactful startups.
 
 ---
 
-> Hard work + consistency = success 🚀
+> Hard work + consistency = success
